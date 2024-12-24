@@ -107,9 +107,9 @@ sh ./scripts/tests.sh 1
 
 ```json
 {
-  "total_items": 100,        // общее количество добавленных элементов
-  "total_categories": 15,    // общее количество категорий
-  "total_price": 100000      // суммарная стоимость всех объектов
+  "total_items": 100,
+  "total_categories": 15,
+  "total_price": 100000
 }
 ```
 
